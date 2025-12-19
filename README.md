@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## About Me
+- Interested in an academic career
+- Love mathematics/mathematical physics
+- Started working on [Regression Neural Networks](https://github.com/moaazdarsh/Artificial_NN) in highschool
 <!--
 **moaazdarsh/moaazdarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
