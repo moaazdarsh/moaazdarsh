@@ -1,7 +1,6 @@
 ## About Me
 I'm an ECE student at Ain Shams university with a personal interest in mathematics and its applications in deep learning and scientific computation.
-
-Currently, I'm a path planning engineer in the F1TENTH ASU racing team where I had to understand, use, or implement algorithms such as curve minimization, local spliner, and RRT.
+Currently, I'm a path planning engineer in the F1TENTH ASU racing team where I worked on understanding, using, or implementing algorithms such as curve minimization, local spliner, and RRT.
 
 I'm aiming for an academic career, but my engineering major prepares me for working in both research and industry.
 
